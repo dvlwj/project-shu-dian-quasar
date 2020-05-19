@@ -1,0 +1,23 @@
+{
+  "name": "shu-dian-quasar",
+  "version": "1.0.0",
+  "description": "a testing project for using quasar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvlwj/project-shu-dian-quasar.git"
+  },
+  "keywords": [
+    "quasar",
+    "nodejs"
+  ],
+  "author": "dvlwj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dvlwj/project-shu-dian-quasar/issues"
+  },
+  "homepage": "https://github.com/dvlwj/project-shu-dian-quasar#readme"
+}
